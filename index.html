@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sooni</title>
+    <link rel="icon" href="icon.png" />
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3pro.css" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="scripts/data.js"></script>
+    <script src="scripts/script.js" defer></script>
+  </head>
+  <body>
+    <div class="w3-bar bc-blue c-white">
+      <a class="w3-btn" href="/">
+        <h1>Sooni</h1>
+      </a>
+    </div>
+    <div class="w3-container">
+      <p>
+        <b>Fall 2023 Course List</b>
+        <a
+          class="w3-small"
+          href="https://www.sunykorea.ac.kr/en/html/sub03/030501.html"
+          target="_blank"
+        >
+          (Updated on June 1, 2023)
+        </a>
+      </p>
+      <p>This website helps you find general education classes that don't have time conflicts.</p>
+      <p>Enter the classes that you want to take in the [subject][course].[section] format.</p>
+      <p>Select the appropriate checkboxes below to also search for available major classes.</p>
+      <p class="c-red">(TUT and 500+ courses not included)</p>
+      <p class="w3-small">Classes that you want to take:</p>
+      <p>
+        <textarea class="w3-input w3-border w3-round" placeholder="AMS151.90 WRT101.90"></textarea>
+      </p>
+      <p class="w3-small">
+        <input id="ams" class="w3-check" type="checkbox" />
+        <label for="ams">AMS</label>
+        <input id="acc" class="w3-check" type="checkbox" />
+        <label for="acc">ACC</label>
+        <input id="bus" class="w3-check" type="checkbox" />
+        <label for="bus">BUS</label>
+        <input id="cse" class="w3-check" type="checkbox" />
+        <label for="cse">CSE</label>
+        <input id="ese" class="w3-check" type="checkbox" />
+        <label for="ese">ESE</label>
+        <input id="est" class="w3-check" type="checkbox" />
+        <label for="est">EST</label>
+        <input id="mec" class="w3-check" type="checkbox" />
+        <label for="mec">MEC</label>
+      </p>
+      <p>
+        <button class="w3-button w3-round bc-blue c-white" type="button">Submit</button>
+      </p>
+    </div>
+    <div class="w3-container">
+      <div id="panel" class="w3-panel d-n bc-red c-white"></div>
+    </div>
+    <div class="w3-container">
+      <p class="w3-small">Available classes:</p>
+      <div class="w3-responsive">
+        <table id="table" class="w3-table w3-border w3-bordered w3-small">
+          <tr class="bc-blue c-white">
+            <th>Number</th>
+            <th>Subject</th>
+            <th>Course</th>
+            <th>Title</th>
+            <th>SBC</th>
+            <th>Section</th>
+            <th>Credits</th>
+            <th>Time</th>
+            <th>Room</th>
+            <th>Instructor</th>
+          </tr>
+        </table>
+      </div>
+    </div>
+    <div class="w3-container w3-center">
+      <p>
+        <a class="w3-small" href="https://github.com/yehwankim23/sooni" target="_blank">
+          © 2022-2023 김예환 Ye-Hwan Kim (Sam)
+        </a>
+      </p>
+    </div>
+  </body>
+</html>

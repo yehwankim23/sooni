@@ -1,0 +1,27 @@
+body {
+  touch-action: manipulation;
+}
+
+input {
+  accent-color: #004c93;
+}
+
+.d-n {
+  display: none;
+}
+
+.bc-blue {
+  background-color: #004c93;
+}
+
+.bc-red {
+  background-color: #990000;
+}
+
+.c-red {
+  color: #990000;
+}
+
+.c-white {
+  color: #ffffff;
+}

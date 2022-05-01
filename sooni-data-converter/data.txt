@@ -1,0 +1,188 @@
+96950 AMS 104 Spreadsheet Technology and Applications QPS, TECH LEC 90 3 TUTH 2:00 PM 3:20 PM C107 Ky Tran
+92220 AMS 151 Applied Calculus I QPS LEC 90 3 MW 3:30 PM 4:50 PM C105 Suil O
+92221 AMS 161 Applied Calculus II QPS LEC 90 3 MW 3:30 PM 4:50 PM C103 Young-Seon Lee
+92383 AMS 161 Applied Calculus II QPS LEC 91 3 TUTH 3:30 PM 4:50 PM C103 Young-Seon Lee
+92222 AMS 210 Applied Linear Algebra STEM+ LEC 90 3 TUTH 5:00 PM 6:20 PM C105 Ky Tran
+92223 AMS 261 Applied Calculus III STEM+ LEC 90 MW 3:30 PM 4:50 PM B313 Tan Cao
+92224 AMS 261 Applied Calculus III STEM+ REC R90 RECM 12:30 PM 1:25 PM B313 Tan Cao
+92225 AMS 301 Finite Mathematical Structures STEM+ LEC 90 3 MW 5:00 PM 6:20 PM B105 Suil O
+92226 AMS 310 Survey of Probability and Statistics STEM+ LEC 90 3 MW 10:30 AM 11:50 AM B207 Myoungshic Jhun
+92336 AMS 317 Introduction to Linear Regression Analysis LEC 90 3 MW 2:00 PM 3:20 PM B207 Changsoon Park
+92227 AMS 361 Applied Calculus IV: Differential Equations STEM+ LEC 90 TUTH 3:30 PM 4:50 PM A312 Kazem Mahdavi
+92228 AMS 361 Applied Calculus IV: Differential Equations STEM+ REC R90 RECTU 5:00 PM 5:55 PM A312 Kazem Mahdavi
+92354 AMS 394 Statistical Laboratory CER, ESI, EXP+ LEC 90 3 TUTH 10:30 AM 11:50 AM A313 Hyunwook Koh
+92363 AMS 412 Mathematical Statistics CER, ESI, EXP+ LEC 90 3 MW 3:30 PM 4:50 PM B206 Myoungshic Jhun
+92844 ACC 210 Financial Accounting LEC 90 3 TUTH 2:00 PM 3:20 PM B103 Jeehong Kim
+92858 ACC 210 Financial Accounting LEC 91 3 TUTH 10:30 AM 11:50 AM B207 Korean Jo
+92877 ACC 214 Managerial Cost Analysis and Applications LEC 90 3 F 9:00 AM 11:50 AM B103 Soo Young Kwon
+92876 ACC 310 Intermediate Accounting I LEC 90 3 F 2:00 PM 4:50 PM B103 Sunghee Kim
+92845 BUS 215 Intro to Business Statistics LEC 90 3 MW 3:30 PM 4:50 PM B203 Jaeyeong Lee
+92850 BUS 220 Intro to Decision Sciences STEM+ LEC 90 3 MW 5:00 PM 6:20 PM B103 Chungseung Lee
+92857 BUS 326 Organizational Behavior DIV LEC 90 3 TUTH 5:00 PM 6:20 PM B204 Chih-mao Hsieh
+96965 BUS 330 Principles of Finance LEC 91 3 TUTH 2:00 PM 3:20 PM B204 Sung Sup Choi
+92872 BUS 334 Integrated Mktg Communications LEC 90 3 MW 2:00 PM 3:20 PM B204 Dae Ryun Chang
+92873 BUS 340 Information Systems in Management TECH LEC 90 3 MW 10:30 AM 11:50 AM A724 Kyung Kyu Kim
+92851 BUS 346 Operations Management LEC 90 3 MW 3:30 PM 4:50 PM B103 Chungseung Lee
+92848 BUS 348 Principles of Marketing LEC 90 3 MW 5:00 PM 6:20 PM B204 Noelle Chung
+92875 BUS 348 Principles of Marketing LEC 91 3 MW 10:30 AM 11:50 AM B204 Dae Ryun Chang
+92855 BUS 353 Entrepreneurship LEC 90 3 TUTH 3:30 PM 4:50 PM B314 Chih-mao Hsieh
+92874 BUS 355 Investment Analysis LEC 90 3 TUTH 9:00 AM 10:20 AM B205 Joung Hwa Choi
+92859 BUS 358 Marketing Research ESI LEC 90 3 MW 3:30 PM 4:50 PM A211 Noelle Chung
+92861 BUS 359 Consumer Behavior LEC 90 3 TU 2:00 PM 4:50 PM A211 Young-Won Ha
+92865 BUS 365 Financial Management ESI LEC 90 3 TUTH 2:00 PM 3:20 PM A117 Joung Hwa Choi
+92866 BUS 366 Money and Financial Inst. LEC 90 3 TUTH 10:30 AM 11:50 AM A211 Sung Sup Choi
+92856 BUS 447 Business Ethics CER LEC 90 3 TH 10:30 AM 1:20 PM C103 In Ki Joo
+92229 CSE 101 Computer Science Principles TECH LEC 90 TUTH 10:30 AM 11:50 AM C105 Francois Rameau
+92230 CSE 101 Computer Science Principles TECH LAB L90 LABM 12:30 PM 1:50 PM C105 Francois Rameau
+92231 CSE 114 Intro to Object-Oriented Programming TECH LEC 90 MW 2:00 PM 3:20 PM C105 Antonino Mione
+92232 CSE 114 Intro to Object-Oriented Programming TECH LAB L90 TUTH 2:00 PM 3:20 PM C105 Antonino Mione
+92233 CSE 214 Data Structures LEC 90 TUTH 10:30 AM 11:50 AM B103 Byungkon Kang
+92234 CSE 214 Data Structures REC R90 RECW 10:30 AM 11:25 AM B103 Byungkon Kang
+92235 CSE 215 Foundations of Comp Science LEC 90 TUTH 12:30 PM 1:50 PM B207 Zhoulai Fu
+92236 CSE 215 Foundations of Comp Science REC R90 RECTU 3:30 PM 4:25 PM B207 Zhoulai Fu
+92339 CSE 216 Programming Abstractions LEC 90 TUTH 9:00 AM 10:20 AM B203 Zhoulai Fu
+92340 CSE 216 Programming Abstractions REC R90 RECTH 2:00 PM 2:55 PM B203 Zhoulai Fu
+92237 CSE 220 Systems Fundamentals I LEC 90 MW 10:30 AM 11:50 AM B203 Amos Omondi
+92238 CSE 220 Systems Fundamentals I REC R90 RECM 12:30 PM 1:25 PM B203 Amos Omondi
+92291 CSE 300 Technical Communications SPK, WRTD LEC 90 3 MW 3:30 PM 4:50 PM B205 Christopher Houghton
+92322 CSE 303 Intro to the Theory of Computation LEC 90 3 TUTH 3:30 PM 4:50 PM B204 Amos Omondi
+96938 CSE 304 Compiler Design LEC 90 3 TUTH 9:00 AM 10:20 AM B103 Amos Omondi
+92268 CSE 310 Computer Networks LEC 90 3 TUTH 10:30 AM 11:50 AM B204 Aruna Balasubramanian
+92342 CSE 316 Fundamentals of Software Development ESI, EXP+, SBS+, STEM+ LEC 90 3 MW 9:00 AM 10:20 AM B207 Antonino Mione
+92321 CSE 320 Systems Fundamentals II LEC 90 3 TUTH 12:30 PM 1:50 PM B205 Yoon-Seok Yang
+92281 CSE 352 Artificial Intelligence LEC 90 3 TUTH 2:00 PM 3:20 PM A312 Byungkon Kang
+96966 CSE 354 Natural Language Processing LEC 90 3 TUTH 3:30 PM 4:50 PM B313 Niranjan Balasubramanian
+92239 CSE 373 Analysis of Algorithms LEC 90 3 TUTH 5:00 PM 6:20 PM B205 Jihoon Ryoo
+92341 CSE 416 Software Engineering ESI, EXP+, SBS+, STEM+ LEC 90 3 TUTH 2:00 PM 3:20 PM A116 Jihoon Ryoo
+96954 ESE 118 Digital Logic Design TECH LEC 90 TUTH 10:30 AM 11:50 AM B314 TBA
+96956 ESE 118 Digital Logic Design TECH LAB L90 TU 2:00 PM 4:50 PM C607 TBA
+96973 ESE 122 Discrete Mathematics for Engineers LEC 90 3 TUTH 5:00 PM 6:20 PM B206 TBA
+92506 ESE 123 Introduction to Electrical and Computer Engineering TECH LEC 90 TUTH 3:30 PM 4:50 PM B104 Cornelius Bradter
+92507 ESE 123 Introduction to Electrical and Computer Engineering TECH LAB L90 TU 5:00 PM 7:50 PM C508 Cornelius Bradter
+96985 ESE 124 Programming Fundamentals LEC 90 MW 5:00 PM 6:20 PM B614 Sangjin Hong
+96975 ESE 124 Programming Fundamentals LAB L90 F 2:00 PM 4:50 PM B614 Sangjin Hong
+96955 ESE 271 Electrical Circuit Analysis LEC 90 3 TUTH 9:00 AM 10:20 AM B204 Sangjin Hong
+96976 ESE 280 Embedded Microcontroller Systems Design I LEC 90 TUTH 2:00 PM 3:20 PM B613 Sangjin Hong
+96977 ESE 280 Embedded Microcontroller Systems Design I LAB L90 TH 3:30 PM 5:50 PM B613 Sangjin Hong
+96981 ESE 305 Deterministic Signals and Systems LEC 90 3 MW 10:30 AM 11:50 AM B205 TBA
+92498 EST 100 Designing, Producing & Presenting Multimedia Projects TECH LEC 90 3 TUTH 5:00 PM 6:20 PM A115 Maurice Bess
+92343 EST 194 Decision-making QPS LEC 90 3 MW 5:00 PM 6:20 PM B207 TBA
+92499 EST 201 Technological Trends in Society STAS LEC 90 3 TUTH 12:30 PM 1:50 PM B204 Gayoung Park
+92242 EST 202 Intro to Sci, Tech,Soc Studies TECH LEC 90 3 TUTH 3:30 PM 4:50 PM B105 Anthony Pennings
+92500 EST 204 Modern Digital Technology and Innovation TECH LEC 90 3 TUTH 2:00 PM 3:20 PM B205 James Larson
+92344 EST 205 Intro to Tech Design TECH LEC 90 3 TUTH 2:00 PM 3:20 PM B105 Neal Dreamson
+92515 EST 221 Multimedia for Online Content Platforms TECH LEC 90 3 MW 5:00 PM 6:20 PM A115 Cornelius Bradter
+92243 EST 230 ICT for Sustainable Development TECH LEC 90 3 MW 5:00 PM 6:20 PM B203 Anthony Pennings
+92361 EST 280 Fundmtls of Indstrl Engnrng TECH LEC 90 3 TUTH 5:00 PM 6:20 PM B207 TBA
+92309 EST 304 Communication for Engr & Sci LEC 90 3 TUTH 12:30 PM 1:50 PM B105 Su Hyeong Kim
+92267 EST 305 App Software for Info Mgt LEC 90 3 TUTH 9:00 AM 10:20 AM A313 Maurice Bess
+92345 EST 310 Design of Computer Games TECH LEC 90 3 MW 10:30 AM 11:50 AM A312 Maurice Bess
+92362 EST 320 Communication Tech Systems STAS LEC 90 3 TUTH 12:30 PM 1:50 PM B203 Anthony Pennings
+92244 EST 326 Management for Engineers LEC 90 3 MW 3:30 PM 4:50 PM B207 Joseph Cabuay
+92464 EST 330 Natural Disasters STAS LEC 90 3 MW 2:00 PM 3:20 PM B103 Jang Lee
+92245 EST 331 Engineering Ethics STAS LEC 90 3 TUTH 2:00 PM 3:20 PM B207 Joseph Cabuay
+92246 EST 364 How to Build a Startup EXP+ LEC 90 3 MW 9:00 AM 10:20 AM B203 Suzana Brown
+92247 EST 371 Data Sci Management LEC 90 3 MW 2:00 PM 3:20 PM B205 KYUNG KU KIM
+92310 EST 372 Mobile Revolution LEC 90 3 TUTH 3:30 PM 4:50 PM B103 Sira Maliphol
+92248 EST 391 Technology Assessment STAS LEC 90 3 TUTH 5:00 PM 6:20 PM B105 TBA
+92264 EST 392 Engineering Economics SBS LEC 90 3 F 9:30 AM 12:20 PM B207 Jin-sang Lee
+92249 EST 393 Project Management LEC 90 3 MW 3:30 PM 4:50 PM B204 Jang Lee
+92250 EST 440 Interdis Rsch Methods CER, ESI, EXP+, SBS+, SPK, STEM+, WRTD LEC 90 3 TUTH 10:30 AM 11:50 AM B313 Sira Maliphol
+92270 EST 441 Interdis Senior Project CER, ESI, EXP+, SBS+, SPK, STEM+, WRTD LEC 90 3 TUTH 10:30 AM 11:50 AM A117 Neal Dreamson
+92251 MEC 101 Freshman Design Innovation LEC 90 3 TUTH 12:30 PM 1:50 PM B103 Cornelius Bradter
+92252 MEC 203 Eng Graphics and CAD LEC 90 3 TH 2:00 PM 4:50 PM A211 Jong Park
+92346 MEC 226 Modern Machining Practices LAB L90 1 TH 5:00 PM 6:50 PM B1093 Jong Eun Park
+92287 MEC 301 Thermodynamics LEC 90 3 TUTH 3:30 PM 4:50 PM B205 JONGSEONG CHOI
+92288 MEC 310 Introduction to Machine Design LEC 90 3 TUTH 10:30 AM 11:50 AM B203 Changwoon Han
+92289 MEC 316 Instrumentation and Solids Lab TECH LAB L90 2 W 9:00 AM 11:50 AM C103 Changwoon Han
+97024 MEC 316 Instrumentation and Solids Lab TECH LAB L91 2 M 9:00 AM 11:50 AM C103 Changwoon Han
+92290 MEC 320 Num Methods Eng Des Anal LEC 90 3 MW 2:00 PM 3:20 PM B203 JONGSEONG CHOI
+92360 MEC 325 Manufacturing Processes LEC 90 3 MW 3:30 PM 4:50 PM A312 Min Yang Yang
+92295 MEC 364 Intro to Fluid Mechanics LEC 90 3 TUTH 2:00 PM 3:20 PM B313 Hamid Hefazi
+92296 MEC 364 Intro to Fluid Mechanics REC R90 RECW 5:00 PM 5:55 PM B313 Hamid Hefazi
+92347 MEC 402 Mechanical Vibrations LEC 90 3 MW 2:00 PM 3:20 PM A724 Seung Bok Choi
+92308 MEC 422 Thermal System Design LEC 90 3 MW 5:00 PM 6:20 PM B206 Gun Woong Bahng
+92489 MEC 441 Mechanical Engnrng Design II LEC 91 3 TUTH 2:00 PM 3:20 PM B618 Y.Eugene Pak
+96978 MEC 491 Topics in Mechanical Engineering (Aerodynamics) LEC 90 3 TUTH 3:30 PM 4:50 PM A724 TBA
+96963 ARH 203 Arts of Asia ARTS, GLO LEC 90 TUTH 9:00 AM 9:50 AM A211 TBA
+96964 ARH 203 Arts of Asia ARTS, GLO REC R90 RETUTH 10:00 AM 10:30 AM A211 TBA
+96982 ARS 154 Foundations: Drawing ARTS LEC 90 3 MW 9:00 AM 11:50 AM A704 TBA
+88861 ARS 205 Foundations: Idea and Form ARTS LAB L90 3 MF 9:00 AM 11:50 AM A211 Rachel Stuckey
+88863 ARS 225 Introduction to Digital Art ARTS, TECH LEC 90 W 9:00 AM 11:50 AM A211 Rachel Stuckey
+88862 ARS 225 Introduction to Digital Art ARTS, TECH LAB L90 F 12:30 PM 3:20 PM A211 Rachel Stuckey
+93951 ATM 102 Weather and Climate SNW LEC 90 3 F 12:30 PM 3:20 PM C105 Seon Ki Park
+88802 BIO 201 Organisms to Ecosystems SNW LEC 90 3 TUTH 9:00 AM 10:20 AM C105 Claire Louise Dell
+94605 CAR 151 Career & Life Design I SEM S90 2 TH 3:30 PM 5:20 PM A114 Sunghyun Lee
+94603 CAR 251 Career & Life Design II SEM S90 2 F 10:00 AM 11:50 AM A114 Sunghyun Lee
+88836 CHI 111 Elementary Chinese I LANG LEC 90 MW 4:30 PM 5:50 PM A114 Mengyang Jia
+88835 CHI 111 Elementary Chinese I LANG REC R90 RECM 3:30 PM 4:20 PM A114 Mengyang Jia
+88840 CHI 111 Elementary Chinese I LANG LEC 91 TUTH 2:00 PM 3:20 PM A114 Mengyang Jia
+88841 CHI 111 Elementary Chinese I LANG REC R91 RETU 3:30 PM 4:25 PM A114 Mengyang Jia
+88851 CHI 111 Elementary Chinese I LANG LEC 92 TUTH 10:30 AM 11:50 AM A114 Mengyang Jia
+88850 CHI 111 Elementary Chinese I LANG REC R92 RETH 9:30 AM 10:25 AM A114 Mengyang Jia
+88866 CHI 111 Elementary Chinese I LANG LEC 93 MW 2:00 PM 3:20 PM A114 Mengyang Jia
+88865 CHI 111 Elementary Chinese I LANG REC R93 RECW 3:30 PM 4:25 PM A114 Mengyang Jia
+88842 CHI 112 Elementary Chinese II LANG LEC 90 MW 9:30 AM 10:50 AM A114 Mengyang Jia
+88843 CHI 112 Elementary Chinese II LANG REC R90 RECM 11:00 AM 11:55 AM A114 Mengyang Jia
+96939 COM 120 Fundanetals of Public Speaking SPK LEC 90 3 MW 9:00 AM 10:20 AM B103 Andrew Lasher
+88822 ECO 108 Introduction to Economics SBS LEC 90 TU 3:00 PM 5:50 PM B203 Jong Seok Kim
+88823 ECO 108 Introduction to Economics SBS REC R90 RETU 2:00 PM 2:55 PM B203 Jong Seok Kim
+88857 ECO 108 Introduction to Economics SBS LEC 91 TUTH 10:30 AM 11:50 AM C107 Joung Hwa Choi
+88856 ECO 108 Introduction to Economics SBS REC R91 RETU 12:00 PM 12:55 PM C107 Joung Hwa Choi
+92316 ESG 281 Engnrng Intro to Solid State LEC 90 TUTH 9:00 AM 10:20 AM A704 Woong Moo Lee
+92315 ESG 281 Engnrng Intro to Solid State REC R90 RETU 10:30 AM 11:25 AM A704 Woong Moo Lee
+92318 ESG 332 Materials Sci I: Struct & Prop LEC 90 TUTH 10:30 AM 11:50 AM A724 Oh Yang Kwon
+92317 ESG 332 Materials Sci I: Struct & Prop REC R90 RETU 9:30 AM 10:25 AM A724 Oh Yang Kwon
+94105 FLM 102 Intro to Film/TV Composition HUM LEC 91 3 F 2:00 PM 4:50 PM C103 Sun Park
+94115 FLM 102 Intro to Film/TV Composition HUM LEC 92 3 F 9:30 AM 12:20 PM C103 Sun Park
+88858 GEO 102 The Earth SNW LEC 90 3 F 9:30 AM 12:20 PM C105 Young Jae Lee
+88847 HIS 103 American History to 1877 DIV, SBS, USA LEC 90 TUTH 3:30 PM 4:25 PM C107 Donald Bellomy
+88846 HIS 103 American History to 1877 DIV, SBS, USA REC R90 TH 12:30 PM 1:25 PM C107 Donald Bellomy
+96941 HIS 237 Science, Technology, and Medicine in Western Civilization I STAS LEC 90 3 MW 9:00 AM 10:20 AM C105 Donald Bellomy
+88860 KOR 111 Elementary Korean I LANG LEC 90 TUTH 9:00 AM 10:20 AM A312 Hea Hur
+88859 KOR 111 Elementary Korean I LANG REC R90 RETU 10:30 AM 11:25 AM A312 Hea Hur
+96945 KOR 112 Elementary Korean II LANG LEC 90 TUTH 12:30 PM 1:50 PM A312 Hea Hur
+96946 KOR 112 Elementary Korean II LANG REC R90 RETH 11:30 AM 12:25 PM A312 Hea Hur
+88828 KOR 220 Intermediate Heritage Korean GLO, HUM, LANG LEC 90 3 M 9:00 AM 11:50 AM A211 Koksuk Seo
+88864 KOR 220 Intermediate Heritage Korean GLO, HUM, LANG LEC 91 3 M 12:00 PM 2:50 PM A211 Koksuk Seo
+88830 MAP 103 Proficiency Algebra LEC 90 3 MW 2:00 PM 3:20 PM A704 Sang Hee Park
+88832 MAT 122 Overview of Calculus with Appl QPS LEC 90 MW 10:30 AM 11:50 AM C107 Jaeyeong Lee
+88831 MAT 122 Overview of Calculus with Appl QPS REC R90 RECM 12:30 PM 1:25 PM C107 Jaeyeong Lee
+88826 MAT 123 Precalculus LEC 90 MW 5:00 PM 6:20 PM C105 Tan Cao
+88827 MAT 123 Precalculus REC R90 RECM 10:30 AM 11:25 AM C105 Tan Cao
+88844 MAT 200 Logic, Language and Proof STEM+ LEC 90 3 TUTH 9:00 AM 10:20 AM B207 Kazem Mahdavi
+88837 MUS 105 Music Cultures of the World ARTS LEC 90 3 TU 9:30 AM 12:30 PM C103 Yejin Park
+88804 OAE 585 Oral Acad. English (Advanced) LEC 90 3 F 9:00 AM 11:50 AM A117 Hyun-ju Kim
+88824 PHY 131 Classical Physics I SNW LEC 90 TUTH 10:30 AM 11:50 AM B105 Mackenzie Lenz
+88825 PHY 131 Classical Physics I SNW REC R90 RECW 9:30 AM 10:25 AM B105 Mackenzie Lenz
+88820 PHY 132 Classical Physics II SNW LEC 90 TUTH 9:00 AM 10:20 AM B105 Mackenzie Lenz
+88821 PHY 132 Classical Physics II SNW REC R90 RECW 10:30 AM 11:25 AM B105 Mackenzie Lenz
+88818 PHY 133 Classical Physics Laboratory I LAB L90 1 F 9:00 AM 11:20 AM C303 Mackenzie Lenz
+88819 PHY 133 Classical Physics Laboratory I LAB L91 1 F 11:30 AM 1:50 PM C303 Mackenzie Lenz
+88817 PHY 134 Classical Physics Lab II LAB L91 1 W 2:00 PM 4:20 PM C303 Mackenzie Lenz
+88834 POL 101 World Politics GLO, SBS LEC 90 3 TUTH 9:00 AM 10:20 AM C107 Jung-Min Hong
+88816 POL 102 Intro to American Government SBS, USA LEC 90 3 MW 2:00 PM 3:20 PM C107 Jung-Min Hong
+88848 SOC 247 Sociology of Gender DIV, SBS LEC 90 3 F 12:00 PM 2:50 PM C107 Juhyun Woo
+93952 SUS 206 Economics and Sustainability SBS+ LEC 90 F 12:30 PM 2:20 PM B203 Young June Kwon
+93953 SUS 206 Economics and Sustainability SBS+ REC R90 F 2:20 PM 3:15 PM B203 Young June Kwon
+88814 WAE 192 High Intermediate Writing LEC 90 3 TUTH 3:30 PM 4:50 PM A117 Yeji Seok
+88815 WAE 192 High Intermediate Writing LEC 91 3 MW 2:00 PM 3:20 PM A117 Hyun-ju Kim
+88853 WAE 192 High Intermediate Writing LEC 92 3 MW 3:30 PM 4:50 PM A117 Hyun-ju Kim
+96960 WAE 192 High Intermediate Writing LEC 93 3 TUTH 9:00 AM 10:20 AM A117 Yeji Seok
+88811 WAE 194 Advanced Writing Academic Eng LEC 90 3 MW 9:00 AM 10:20 AM A116 Christopher Houghton
+88812 WAE 194 Advanced Writing Academic Eng LEC 91 3 TUTH 9:00 AM 10:20 AM A116 Lindsay Dennison
+88813 WAE 194 Advanced Writing Academic Eng LEC 92 3 MW 10:30 AM 11:50 AM A116 Christopher Houghton
+88829 WAE 194 Advanced Writing Academic Eng LEC 93 3 TUTH 10:30 AM 11:50 AM A116 Lindsay Dennison
+88852 WAE 194 Advanced Writing Academic Eng LEC 94 3 MW 2:00 PM 3:20 PM A116 Christopher Houghton
+88854 WAE 194 Advanced Writing Academic Eng LEC 95 3 TUTH 3:30 PM 4:50 PM A116 Lindsay Dennison
+88808 WRT 101 Introductory Writing Workshop WRT LEC 90 3 MW 10:30 AM 11:50 AM A117 Hyun-ju Kim
+88809 WRT 101 Introductory Writing Workshop WRT LEC 91 3 TUTH 9:00 AM 10:20 AM B206 Terence Oliga
+88810 WRT 101 Introductory Writing Workshop WRT LEC 92 3 TUTH 10:30 AM 11:50 AM B206 Terence Oliga
+88833 WRT 101 Introductory Writing Workshop WRT LEC 93 3 MW 2:00 PM 3:20 PM B206 Terence Oliga
+88855 WRT 101 Introductory Writing Workshop WRT LEC 94 3 TUTH 2:00 PM 3:20 PM B206 TBA
+88839 WRT 101 Introductory Writing Workshop WRT LEC 95 3 TUTH 3:30 PM 4:50 PM B206 TBA
+88805 WRT 102 Intermediate Writing Workshop WRT LEC 90 3 TUTH 9:00 AM 10:20 AM B104 Timothy Fletcher
+88806 WRT 102 Intermediate Writing Workshop WRT LEC 91 3 MW 10:30 AM 11:50 AM B206 TBA
+88807 WRT 102 Intermediate Writing Workshop WRT LEC 92 3 TUTH 10:30 AM 11:50 AM B104 Timothy Fletcher
+88838 WRT 102 Intermediate Writing Workshop WRT LEC 93 3 MW 2:00 PM 3:20 PM B104 Andrew Schenck
+88845 WRT 102 Intermediate Writing Workshop WRT LEC 94 3 TUTH 2:00 PM 3:20 PM B104 Timothy Fletcher
